@@ -61,7 +61,7 @@
 			<tx_util>25000 KB/s</tx_util>
 			<rx_util>68000 KB/s</rx_util>
 		</pci>
-		<fan_speed>41 %</fan_speed>
+		<fan_speed>Error</fan_speed>
 		<performance_state>P2</performance_state>
 		<clocks_throttle_reasons>
 			<clocks_throttle_reason_gpu_idle>Not Active</clocks_throttle_reason_gpu_idle>
